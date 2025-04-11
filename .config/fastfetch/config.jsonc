@@ -1,0 +1,32 @@
+{
+  "displayMode": "minimal",
+  "logo": {
+    "type": "raw",
+    "source": "~/.config/fastfetch/snake-ascii.txt",
+    "colors": [
+      "#D484A6", // pink
+      "#E9B365", // orange
+      "#5A8373", // grün
+      "#9DA6B4", // blau-grau
+      "#2F2C3C"  // schwarz-lila
+    ]
+  },
+  "modules": [
+    "title",
+    "separator",
+    "os",
+    "kernel",
+    "packages",
+    "shell",
+    "terminal",
+    "memory",
+    "separator"
+  ],
+  "keyColor": "#D484A6",
+  "separator": " ❯ ",
+  "padding": {
+    "top": 1,
+    "bottom": 1
+  },
+  "color": "#2F2C3C"
+}
